@@ -1,6 +1,6 @@
 function App() {
-
-  return <h1>Hello World</h1>
+  return (
+    <button>Enviar</button>
+   )
 }
-
 export default App

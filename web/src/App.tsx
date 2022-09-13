@@ -1,6 +1,10 @@
+import './styles/main.css'
+
 function App() {
   return (
-    <button>Enviar</button>
+    <div>
+      
+    </div>
    )
 }
 export default App

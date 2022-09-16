@@ -1,7 +1,7 @@
 import express from 'express'
 import cors from 'cors'
 import { PrismaClient } from '@prisma/client'
-import { convertHour } from './utils/converts-hour'
+import { convertHour } from './utils/convert-hour'
 import { convertminutesToHour } from './utils/convert-minutes-to-hour'
 
 const app = express()

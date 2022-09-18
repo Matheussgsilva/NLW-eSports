@@ -10,7 +10,6 @@ import logoImg from './assets/logo-nlw-esports.svg'
 import { CreateAdBanner } from './components/CreateAdBanner'
 import { CreateAdModal } from './components/CreateAdModal'
 
-
 interface Game {
   id: string
   title: string
